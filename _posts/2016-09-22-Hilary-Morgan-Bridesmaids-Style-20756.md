@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-09-22'
+date: 2016-09-22
 title: "Hilary Morgan Bridesmaids Style 20756"
 category: Hilary Morgan
 tags: [Hilary Morgan]

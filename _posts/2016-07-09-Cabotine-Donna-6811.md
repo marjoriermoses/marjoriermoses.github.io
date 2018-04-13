@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-07-09'
+date: 2016-07-09
 title: "Cabotine Donna 6811"
 category: Cabotine
 tags: [Cabotine]

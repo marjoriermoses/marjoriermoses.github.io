@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-02-08'
+date: 2016-02-08
 title: "Max Chaoul Couture Crazy Love"
 category: Max Chaoul Couture
 tags: [Max Chaoul Couture]
